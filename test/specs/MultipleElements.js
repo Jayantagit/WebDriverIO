@@ -1,5 +1,5 @@
-describe('Verify error messages', () => {
-    it('capture error messages and validate', async () => {
+describe('Multiple Elements', () => {
+    it('Handling Multiple Elements', async () => {
 
         await browser.url("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
 
